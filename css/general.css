@@ -90,3 +90,7 @@
   /* important as this we want highest priority */
   margin-right: 1.6rem !important;
 }
+
+strong {
+  font-weight: 500;
+}
