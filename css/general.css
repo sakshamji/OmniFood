@@ -43,6 +43,9 @@
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
 }
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
+}
 
 .heading-secondary {
   font-size: 4.4rem;
